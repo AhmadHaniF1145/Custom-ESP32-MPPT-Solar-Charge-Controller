@@ -1,0 +1,18 @@
+# IDE & Compiler
+.vscode/
+Debug/
+Release/
+*.o
+*.elf
+*.bin
+*.hex
+
+# Altium / Hardware Design
+History/
+__Previews/
+Project Logs*/
+Project Outputs*/
+
+# OS Files
+Thumbs.db
+.DS_Store
