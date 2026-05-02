@@ -6,10 +6,10 @@ A professional-grade Maximum Power Point Tracking (MPPT) Solar Charge Controller
 Core hardware architecture including power staging, sensor conditioning, and microcontroller integration.
 ![Schematic Diagram](images/skematik.jpg)
 
-## Firmware Architecture & Charging Algorithm
+## Firmware Architecture 
 The system utilizes an advanced MPPT algorithm combined with comprehensive device protection and telemetry processes.
 ![Main Flowchart](images/1Flowchart%20Solar%20Charge%20Controller.drawio.png)
-![Charging Algorithm](images/4Charging_Algorithm.png)
+
 
 ## PCB Layout & 3D Design
 Optimized PCB layout ensuring proper thermal management, signal integrity, and high-current trace routing.
@@ -27,5 +27,4 @@ Fully assembled PCBA undergoing functional testing and calibration.
 
 ## User Interface & Telemetry
 Local LCD menu navigation and digital dashboard for real-time monitoring of PV voltage, charging current, and battery status.
-![LCD Menu Structure](images/7LCD_Menu.png)
 ![IoT User Interface](images/user%20interface%20.jpg)
