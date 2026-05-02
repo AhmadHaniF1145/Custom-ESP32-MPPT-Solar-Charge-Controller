@@ -8,6 +8,7 @@ Core hardware architecture including power staging, sensor conditioning, and mic
 
 ## Firmware Architecture 
 The system utilizes an advanced MPPT algorithm combined with comprehensive device protection and telemetry processes.
+
 ![Main Flowchart](images/1Flowchart%20Solar%20Charge%20Controller.drawio.png)
 
 
