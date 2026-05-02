@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "372979417204",
+    "firebase_url": "https://mppt-iot-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mppt-iot",
+    "storage_bucket": "mppt-iot.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372979417204:android:28fa1a009f3eb7459fd121",
+        "android_client_info": {
+          "package_name": "acw.jrelectrical.mpptiot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372979417204-cjrnkf5t92tj0203r5n4es52bj9jb0l8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPvZ3T_JCGSM0_Y3yz93VgSi4lJth9Pn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372979417204-cjrnkf5t92tj0203r5n4es52bj9jb0l8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
